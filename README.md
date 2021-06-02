@@ -3,6 +3,7 @@
 ## Requirements
 
 1. MATLAB (versions 2018b and 2019b were used in creating codes)
+2. MATCONT (version 6.11)
 
 ## Getting Started
 
