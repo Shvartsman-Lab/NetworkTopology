@@ -13,7 +13,7 @@ Clone the repository:
     
 ## Running Codes
 
-neywork_oscillations.m is the main script for this project.  After setting the value of the parameter delta to be studied, as well as the network topology type and number of cells, the system of ODEs are run.  The outputs are stored as the X and Y values for each nurse cell under consideration, and three different plots are shown: the X,Y phase plane for each nurse cell, the time evolution of X_i for each nurse cell, and a 3D phase plot of X_2, X_3, X_4 (much of the analysis in the paper is done on networks with three nurse cells, but this can be edited as necessary).
+network_oscillations.m is the main script for this project.  After setting the value of the parameter delta to be studied, as well as the network topology type and number of cells, the system of ODEs are run.  The outputs are stored as the X and Y values for each nurse cell under consideration, and three different plots are shown: the X,Y phase plane for each nurse cell, the time evolution of X_i for each nurse cell, and a 3D phase plot of X_2, X_3, X_4 (much of the analysis in the paper is done on networks with three nurse cells, but this can be edited as necessary).
 
 unp.mat and unpy.mat are datasets containing points on the (X,Y) limit cycle in the absence of inhibitor.
 
